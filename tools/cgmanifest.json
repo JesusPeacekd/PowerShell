@@ -246,7 +246,7 @@
         "Type": "nuget",
         "Nuget": {
           "Name": "Newtonsoft.Json",
-          "Version": "13.0.1"
+          "Version": "13.0.2"
         }
       },
       "DevelopmentDependency": false
